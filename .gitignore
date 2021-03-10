@@ -38,3 +38,7 @@ build/
 /.project
 
 version.cache
+
+ns-3.srctrlprj
+ns-3.srctrldb
+ns-3.srctrlbm
