@@ -42,3 +42,5 @@ version.cache
 ns-3.srctrlprj
 ns-3.srctrldb
 ns-3.srctrlbm
+
+.vscode/c_cpp_properties.json
